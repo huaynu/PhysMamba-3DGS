@@ -12,10 +12,10 @@ PhysMamba-3DGS-Physics-Aware-Heterogeneous-Assisted-Gaussian-Splatting-for-Blur-
 ## 📹 More Samples
 
 
-[] (https://github.com/user-attachments/assets/d6a767c8-836e-4420-8dac-54964ebfa89a)
+https://github.com/user-attachments/assets/d6a767c8-836e-4420-8dac-54964ebfa89a
 
 
-[] (https://github.com/user-attachments/assets/b96ff6c7-185f-4780-8299-f5a3bfecf3dd)
+https://github.com/user-attachments/assets/b96ff6c7-185f-4780-8299-f5a3bfecf3dd
 
 *Video 1: Comparative results showcasing our method's performance on synthetic and real-world blurry datasets.*
 
